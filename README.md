@@ -1,7 +1,7 @@
 # Exploring-the-Microsoft-Azure-Portal
 
-![imagen](png1.png)
-![imagen](png2.png)
+![imagen](img1.png)
+![imagen](img2.png)
 
 1. **Nombres y apellidos:** Carola Casais Recondo 
 2. **Fecha:** Miércoles 16 de diciembre de 2020
